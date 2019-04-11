@@ -5,10 +5,9 @@ position: 3
 Subheading: Identity, Digital Design, Design System, Design Operations
 Intro: Decred is an open-source cryptocurrency project with a focus on solving blockchain
   governance. EETER has authored Decred's identity as well established the projects
-  design discipline. Presently the design operations include around 10 contributors
-  working on more than 8 products and different aspects of visual communications.
-  Currently EETER is focused on the areas of user experience, design operations and
-  identity matters.
+  design discipline. The design operations currently include around 10 contributors
+  working on more than 8 products and different areas of visual communications. EETER
+  is focused on the areas of user experience, design operations and identity matters.
 Extra Information: |-
   2016 - Present
 
