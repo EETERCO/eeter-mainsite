@@ -1,6 +1,7 @@
 ---
 title: Sander Meentalo
 date: 2018-01-13 12:10:00 +02:00
+published: false
 Role: Designer and Partner
 Image: "/uploads/sander-mug.png"
 ---
