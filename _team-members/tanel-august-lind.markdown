@@ -1,6 +1,7 @@
 ---
 title: Tanel August Lind
 date: 2018-01-13 12:09:00 +02:00
+published: false
 Role: Designer and Partner
 Image: "/uploads/tnl-mug-89001f.png"
 ---
