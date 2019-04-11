@@ -9,12 +9,24 @@ Intro: Decred is an open-source cryptocurrency project with a focus on solving b
   working on more than 8 products and different aspects of visual communications.
   Currently EETER is focused on the areas of user experience, design operations and
   identity matters.
-Extra Information: "2016 - Present\n\nDesign Lead: Tanel August Lind\n\nDesign and
-  Concept: Sander Meentalo\n\nIllustration: Kärt Koosapoeg\n\nMotion: BOP.ee, Sander
-  Joon\n\nDevelopment: Mykolas Raižys \n\nCase Study 01: [Identity and Design Development
-  for a Digital Currency](https://medium.com/decred/decred-developing-identity-and-design-system-for-a-digital-currency-17df76ab67c8)\n\nCase
-  Study 02: [DCR Logo Performance Update](https://medium.com/p/f12f94a7a33e)\n\nGithub:
-  [/dcrdesign](https://github.com/decred/dcrdesign)"
+Extra Information: |-
+  2016 - Present
+
+  Design Lead: Tanel August Lind
+
+  Design and Concept: Sander Meentalo
+
+  Illustration: Kärt Koosapoeg
+
+  Motion: BOP.ee, Sander Joon
+
+  Development: Sander Meentalo; goodhands.co – Mykolas Raižys; Decred Developers
+
+  Case Study 01: [Identity and Design Development for a Digital Currency](https://medium.com/decred/decred-developing-identity-and-design-system-for-a-digital-currency-17df76ab67c8)
+
+  Case Study 02: [DCR Logo Performance Update](https://medium.com/p/f12f94a7a33e)
+
+  Github: [/dcrdesign](https://github.com/decred/dcrdesign)
 Featured Image: "/uploads/dcrFeature-compressor.png"
 Menu Hover Image: "/uploads/dcr-cover-2.png"
 Is Coming Soon: false
