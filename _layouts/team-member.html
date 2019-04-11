@@ -1,0 +1,51 @@
+{% include header.html %}
+
+<div class="container team">
+	<div class="row">
+		<div class="col-md-5 col-md-offset-2 col-sm-5 col-sm-offset-1 col-xs-13 col-xs-offset-1">
+			<h1>{{ page.title }}</h1>
+			<p class="text--bigger">{{ page.Role }}</p>
+		</div>
+	</div>
+</div>
+<div class="container team--content">
+	<div class="row">
+		<div class="col-md-5 col-md-offset-1 col-sm-6 col-xs-14">
+			<img src="{{ page.Image }}" class="img-responsive">
+			<div class="text-center team--content__icons hidden-xs hidden-sm">
+				{% if page.Linkedin %}<a target="_blank" href="{{ page.Linkedin }}"><img src="/assets/icons/linkedin.svg" alt="LinkedIn"></a>{% endif %}
+				{% if page.Medium %}<a target="_blank" href="{{ page.Medium }}"><img src="/assets/icons/medium.svg" alt="Medium"></a>{% endif %}
+				{% if page.Github %}<a target="_blank" href="{{ page.Github }}"><img src="/assets/icons/github.svg" alt="Github"></a>{% endif %}
+				{% if page.Dribbble %}<a target="_blank" href="{{ page.Dribbble }}"><img src="/assets/icons/dribbble.svg" alt="Dribbble"></a>{% endif %}
+				{% if page.Behance %}<a target="_blank" href="{{ page.Behance }}"><img src="/assets/icons/behance.svg" alt="Behance"></a>{% endif %}
+			</div>
+		</div>
+		<div class="col-md-4 col-md-offset-1 col-sm-6 col-xs-14 team--margin-top text--large margin-bottom--large">
+			{{ content }}
+		</div>
+	</div>
+</div>
+<div class="container team--pagination">
+	<div class="row">
+		<!--<div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-1 col-xs-6 col-xs-offset-1">
+			{% if page.previous %}
+		        {% assign previous = page.previous %}
+		    {% else %}
+		        {% assign last lastPostIndex = site.team-members | size | minus: 1 %}
+		        {% assign previous = site.team-members[lastPostIndex] %}
+		    {% endif %}
+			<a rel="prev" href="{{ previous.url }}">← {{ previous.title }}</a>
+		</div>-->
+		<div class="col-xs-11 col-xs-offset-1 text-right">
+			{% if page.next %}
+		        {% assign next = page.next %}
+		    {% else %}
+		        {% assign next = site.team-members[0] %}
+	    	{% endif %}
+			<a href="{{ next.url }}">{{ next.title }} →</a>
+		</div>
+	</div>
+</div>
+
+{% include footer.html %}
+{% include script.html %}

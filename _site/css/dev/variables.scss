@@ -1,0 +1,31 @@
+$gray-dark:             #000 !default;   // #000
+$brand-primary:         lighten(#000, 66%) !default;
+
+$font-size-base:        15px !default;
+$font-size-h1:          floor(($font-size-base * 2.325)) !default;
+$font-size-h2:          floor(($font-size-base * 2.325)) !default;
+$font-size-h3:          ceil(($font-size-base * 1.4)) !default;
+
+$line-height-base:        1.27 !default;
+
+$link-color:            $brand-primary !default;
+$link-hover-color:      darken($link-color, 25%) !default;
+
+$screen-lg: 1440px;
+
+//** Number of columns in the grid.
+$grid-columns:              14;
+//** Padding between columns. Gets divided in half for the left and right.
+$grid-gutter-width:         15px;
+
+$container-tablet: 768px;
+
+$container-desktop: 992px;
+
+$container-large-desktop: 1220px;
+
+$xs: 320px;
+$sm: 576px;
+$md: 768px;
+$lg: 992px;
+$xl: 1440px;

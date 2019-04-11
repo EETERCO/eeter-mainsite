@@ -1,0 +1,23 @@
+{% include header.html %}
+
+<header id="top" class="header">
+    <div class="container text-vertical-center">
+        <div class="row">
+            <div class="col-xs-13 col-xs-offset-1 col-sm-11 col-sm-offset-1">
+                <h1>{{ page['Line One'] }}</h1>
+                <h1> {{ page['Line Two'] }}</h1>
+                <br>
+                <a href="/profile" class="btn btn-dark">
+                	<img src="assets/icons/read.svg">
+                	<span>Read More</span>
+                </a> 
+                <a id="menu-toggle" href="#" class="btn btn-dark menu-toggle">
+                	<img src="assets/icons/see.svg">
+                	<span>See More</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</header>
+
+{% include script.html %}

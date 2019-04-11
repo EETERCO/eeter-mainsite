@@ -1,0 +1,65 @@
+{% include header.html %}
+
+<div class="container heading">
+	<div class="row">
+		<div class="col-md-7 col-md-offset-2 col-sm-8 col-sm-offset-1 col-xs-offset-1 col-xs-13">
+			<h3 class="text--light">{{ page.title }}</h3>
+			<h1>{{ page.Subheading }}</h1>
+		</div>
+	</div>
+</div>
+<div class="container container--service">
+	<div class="row">
+		<div class="col-md-7 col-sm-7">
+			<div class="slide" data-img="{{ page.Image }}">
+				<img src="{{ page.Image }}" />
+			</div>
+			<div class="col-md-10 col-md-offset-4 col-sm-14 col-sm-offset-2 hidden-xs">
+				<p class="text--nitti margin-bottom--small">Project Highlights</p>
+				<ul id="slide-navigation" class="nav-inline">
+					{% for project-title in page.Projects %}
+					{% assign loopindex2 = forloop.index %}
+					{% assign project = site.projects | where: 'title', project-title | first %}
+						<li><a id="{{ loopindex2 }}" href="{{ site.baseurl }}{{ project.url }}" data-img='{{ project['Featured Image'] }}'>{{ project-title }}</a></li>
+					{% endfor %}
+				</ul>
+			</div>
+			<div class="col-xs-14 visible-xs">
+				<p class="text-center text--nitti xs">Project Highlights</p>
+			</div>
+		</div>
+		<div class="col-md-4 col-sm-7 col-xs-14 text--large margin-bottom--large">
+			{{content}}
+		</div>
+		<div class="col-md-2 hidden-sm hidden-xs">
+			<ul class="nav-list">
+				{% assign sorted_services = site.services | sort:"position" %}
+    			{% for service in sorted_services %}
+					<li><a {% if page.url == service.url %}class="active"{% endif %} href="{{ site.baseurl }}{{ service.url }}">{{ service.title }}</a></li>
+				{% endfor %}
+			</ul>
+		</div>
+		<div class="col-xs-13 col-xs-offset-1 hidden-md hidden-lg">
+			<div class="row list-inline">
+				{% assign sorted_services = site.services | sort:"position" %}
+    			{% for service in sorted_services %}
+    			{% assign loopindex = forloop.index %}
+	    			<div class="col-sm-3 col-xs-6">
+						<a href="{{ site.baseurl }}{{ service.url }}">{{ service.title }}</a>
+					</div>
+					{% if loopindex == 2 %}
+						<div class="clearfix hidden-sm"></div>
+					{% elsif loopindex == 4 %}
+						<div class="clearfix"></div>
+					{% elsif loopindex == 6 %}
+						<div class="clearfix hidden-sm"></div>
+					{% endif %}
+    			{% endfor %}
+			</div>
+		</div>
+	</div>
+</div>
+
+
+{% include footer.html %}
+{% include script.html %}

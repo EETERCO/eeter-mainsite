@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle-path</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Team-Members" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-410.000000, -702.000000)">
+        <g id="Rectangle-path" transform="translate(410.000000, 702.000000)" fill-rule="nonzero">
+            <rect fill="#000000" x="0" y="0" width="16" height="16"></rect>
+            <path d="M3.275,4.741 C3.28847093,4.60917656 3.23833433,4.47882141 3.14,4.39 L2.14,3.181 L2.14,3 L5.256,3 L7.665,8.283 L9.778,3 L12.749,3 L12.749,3.181 L11.891,4 C11.8152503,4.05533472 11.776679,4.14829158 11.791,4.241 L11.791,10.286 C11.776679,10.3787084 11.8152503,10.4716653 11.891,10.527 L12.729,11.35 L12.729,11.531 L8.513,11.531 L8.513,11.35 L9.381,10.507 C9.466,10.422 9.466,10.397 9.466,10.266 L9.466,5.383 L7.052,11.513 L6.726,11.513 L3.916,5.383 L3.916,9.492 C3.89258208,9.66495772 3.95012527,9.83906273 4.072,9.964 L5.201,11.334 L5.201,11.515 L2,11.515 L2,11.334 L3.129,9.964 C3.2499957,9.83885931 3.30420677,9.66360163 3.275,9.492 L3.275,4.741 Z" id="Shape" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>
