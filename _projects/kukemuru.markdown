@@ -1,7 +1,6 @@
 ---
 title: Kukemuru
 date: 2018-01-13 12:13:00 +02:00
-published: false
 position: 7
 Subheading: Identity, Web Design, Graphic Design
 Intro: Kukemuru Ambient is the most influential ambient music event in the Baltics
