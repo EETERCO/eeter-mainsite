@@ -18,7 +18,7 @@ Extra Information: |-
 
   Illustration: Kärt Koosapoeg
 
-  Development: Mykolas Raižys
+  Development: goodhands.co – Mykolas Raižys
 Featured Image: "/uploads/plFeature.png"
 Menu Hover Image: "/uploads/paasteliit-cover-4.png"
 ---
