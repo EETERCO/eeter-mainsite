@@ -9,7 +9,8 @@ Intro: "Coinscrum organises free and open crypto and tech events. Coinscrum prid
   and wants to find out more. We distilled down it's essence to a simple and modern
   wordmark. "
 Extra Information: "EETER.co 2018 \n\nDesign and Direction: Sander Meentalo\n\nDesign:
-  Tanel August Lind\n\nIllustration: Kärt Koosapoeg\n\nDevelopment: Mykolas Raižys "
+  Tanel August Lind\n\nIllustration: Kärt Koosapoeg\n\nDevelopment: goodhands.co –
+  Mykolas Raižys "
 Featured Image: "/uploads/csFeature-compressor.png"
 Menu Hover Image: "/uploads/coinscrum-cover-2.png"
 Is Coming Soon: false
