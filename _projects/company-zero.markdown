@@ -7,7 +7,7 @@ Intro: 'Company Zero is a Chicago based software development firm, who engineers
   and communications software. EETER created an iconic symbol based on c0''s fundamental
   principles of operation. '
 Extra Information: "EETER.co - 2017\n\nDesign and Direction: Tanel August Lind \n\nDesign:
-  Sander Meentalo \n\nDevelopment: Mykolas Raižys "
+  Sander Meentalo \n\nDevelopment: goodhands.co – Mykolas Raižys "
 Featured Image: "/uploads/c0Feature-compressor.png"
 Menu Hover Image: "/uploads/c0-cover-3.png"
 Is Coming Soon: false
