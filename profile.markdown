@@ -10,23 +10,22 @@ First Column: |-
   <p>
   The partners are practicing Designers who share experience and understanding in working with a variety of operations: from open-source projects and startups to Global 500 companies.
   </p>
-Second Column: "<p>\nWe work as a team or as consultants – able to integrate to a
-  specialist role, provide an expert opinion or help to establish the design discipline
-  within your organisation. \n</p>\n<p>\nAs a team we provide full stack design service
-  and partner with proven specialists depending on the project needs.\n</p>"
+Second Column: "<p>\nThe founding partners are part of the core team for every project.
+  In addition we employ a compact team of local and remote experts from different
+  fields such as motion design, development, research, photography and production
+  work. \n</p>"
 Third Column: "<p>\nWe are well-versed in and focused on working with the following
   sectors: \n\L</p>\n<p>\n• finance and legal<br>\n• blockchain and privacy<br>\n•
   industrial and engineering<br>\n• industrial and engineering<br>\n\L</p>"
-Fourth Column: "\n<strong>\nTanel August Lind\L\n</strong>\n<br>\nDesigner, Partner\L\L\n<br>\n<p>\nAdvocates
+Fourth Column: "<strong>\nTanel August Lind\L\n</strong>\n<br>\nDesigner, Partner\L\L\n<br>\n<p>\nAdvocates
   well structured, functional and meaningful design performance.\L\L\n</p>\n<p>\nSince
   2008 Tanel spent a fair share of his time with several major design firms in Estonia,
   Finland, and Australia. Most of his past work involves around financial, tech and
   industrial sectors.\L\L\n</p>\n<p>\nHe primarily focuses on concept and design direction
   of identity and digital design, as well works on the operational aspects of product
-  development with an aim to improve design teams functions and cap the bridge between
+  development with an aim to improve design teams functions and gap the bridge between
   development. \n</p>"
-Fifth Column: |2-
-
+Fifth Column: |-
   <strong>
   Sander Meentalo 
   </strong>
