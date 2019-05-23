@@ -10,10 +10,10 @@ First Column: |-
   <p>
   The partners are practicing Designers who share over a decade of experience in working with startups and open-source projects to Global 500 companies.
   </p>
-Second Column: "<p>\nThe founding partners are part of the core team for every project.
-  In addition we employ a compact team of local and remote experts from different
-  fields such as motion design, development, research, photography and production
-  work. \n</p>"
+Second Column: "<p>\nThe founding partners are the key contacts and part of the core
+  team for every project. In addition we employ a compact team of local and remote
+  experts from different fields such as motion design, development, research, photography
+  and production work. \n</p>"
 Third Column: "<p>\nWe are well-versed in and focused on working with the following
   sectors: \n\L</p>\n<p>\n• finance and legal<br>\n• blockchain and privacy<br>\n•
   industrial and engineering<br>\n• industrial and engineering<br>\n\L</p>"
