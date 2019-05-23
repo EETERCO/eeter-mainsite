@@ -8,7 +8,7 @@ First Column: |-
   EETER is a design studio driven by innovations and grounded by timeless design principles. We cultivate enjoyable work experiences by forming straightforward relationships rooted in responsibility and transparency.
   </p>
   <p>
-  The partners are practicing Designers who share experience and understanding in working with a variety of operations: from open-source projects and startups to Global 500 companies.
+  The partners are practicing Designers who share over a decade of experience in working with startups and open-source projects to Global 500 companies.
   </p>
 Second Column: "<p>\nThe founding partners are part of the core team for every project.
   In addition we employ a compact team of local and remote experts from different
