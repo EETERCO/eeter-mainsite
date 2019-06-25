@@ -16,7 +16,7 @@ Second Column: "<p>\nThe founding partners are the key contacts and part of the 
   and production work. \n</p>"
 Third Column: "<p>\nWe are well-versed in and focused on working with the following
   sectors: \n\L</p>\n<p>\n• finance and legal<br>\n• blockchain and privacy<br>\n•
-  industrial and engineering<br>\n• industrial and engineering<br>\n\L</p>"
+  industrial and engineering<br>\n\L</p>"
 Fourth Column: "<strong>\nTanel August Lind\L\n</strong>\n<br>\nDesigner, Partner\L\L\n<br>\n<p>\nAdvocates
   well structured, functional and meaningful design performance.\L\L\n</p>\n<p>\nSince
   2008 Tanel spent a fair share of his time with several major design firms in Estonia,
