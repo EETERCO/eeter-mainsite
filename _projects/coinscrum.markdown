@@ -33,7 +33,7 @@ A generative approach allows to increase awareness and communicate nuances of 
 
 Each combination for hero visuals is essentially an excercise of creativity, composition and architectonics.
 
-![cs3.png](/uploads/cs3.png)
+![cs3b.png](/uploads/cs3b.png)
 
 ![cs4.png](/uploads/cs4.png)
 
