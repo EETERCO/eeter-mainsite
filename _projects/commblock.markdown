@@ -18,7 +18,7 @@ Is Coming Soon: true
 
 ## Seeing through the hexagon blocks
 
-The old symbol had certain values to it and was in action across several critical outputs. Though it was plagued by number of issues, both similarities to other symbols as well its graphical construction qualities and performance. By constraining our work around the base form and the inner workings of the hexagons, we’ve managed to address those issues while saving similar perception of the original symbol. The updated symbol is based on intertwined duo-hexagon what in combination forms an ambigram. It also injects further value by further emphasizing the C and the block formation. 
+The old symbol plagued by number of issues, from similarities to other symbols as well its graphical construction qualities and performance. Though being in action across several critical outlets, the task at hand requiered saving a similar perception of the symbol while. By constraining our work around the base form and the inner workings of the hexagons, the updated symbol was based on intertwined duo-hexagon what in combination formed an ambigram. We also injected additional value by  emphasizing the C and the block formation. 
 
 As part of the identity, we worked out a common methods and sets of assets for consistent visual branding across all outputs. The products received a line of icon based logos as well key visuals. 
 
@@ -27,7 +27,7 @@ As part of the identity, we worked out a common methods and sets of assets for c
 ## jisdsd
 
 Lõime kokkuvõtliku maandumislehe, mida saaks modulaarselt kasvatada. Selge struktuur, lightweight animated key visual. 
-Well structured and straight to the point. Infographics to provide a high level explanation of the blockchain solutions CB develops
+Well structured and straight to the point. Signature styled infographics to provide a high level explanation of the blockchain solutions CB develops
 
 ![cb3.png](/uploads/cb3.png)
 
