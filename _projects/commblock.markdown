@@ -18,16 +18,14 @@ Is Coming Soon: true
 
 ## Seeing through the hexagon blocks
 
-The old symbol plagued by number of issues, from similarities to other symbols as well its graphical construction qualities and performance. Though being in action across several critical outlets, the task at hand requiered saving a similar perception of the symbol while. By constraining our work around the base form and the inner workings of the hexagons, the updated symbol was based on intertwined duo-hexagon what in combination formed an ambigram. We also injected additional value by  emphasizing the C and the block formation. 
+The old symbol was plagued by number of issues, from similarities to other symbols as well graphical construction and performance. Due to being in action across critical domains, the task at hand required retaining a similar perception of the symbol. By constraining our work around the base form and inner workings of the hexagons, the updated symbol was based on intertwined hexagon duo what in combination formed an ambigram. We also injected additional value by emphasizing the C and the block formation. 
 
-As part of the identity, we worked out a common methods and sets of assets for consistent visual branding across all outputs. The products received a line of icon based logos as well key visuals. 
+We worked out a set of common methods and assets for consistent visual branding across all outputs. The products received consistent icon based logos as well key visuals. 
 
 ![cb2.png](/uploads/cb2.png)
 
 ## jisdsd
-
-Lõime kokkuvõtliku maandumislehe, mida saaks modulaarselt kasvatada. Selge struktuur, lightweight animated key visual. 
-Well structured and straight to the point. Signature styled infographics to provide a high level explanation of the blockchain solutions CB develops
+We conceptulizaed and designed a landing page that recapped CommerceBlocks operations. Clear structure and modular approach set the foundation for growing the site in the future. Light weight animated key visual and constraints on development ensured high performance. Signature styled infographics provide high level insights of the techology solutions that CommerceBlock develops.
 
 ![cb3.png](/uploads/cb3.png)
 
