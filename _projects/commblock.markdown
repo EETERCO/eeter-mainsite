@@ -25,7 +25,7 @@ We worked out a set of common methods and assets for consistent visual branding 
 ![cb2.png](/uploads/cb2.png)
 
 ## jisdsd
-We conceptulizaed and designed a landing page that recapped CommerceBlocks operations. Clear structure and modular approach set the foundation for growing the site in the future. Light weight animated key visual and constraints on development ensured high performance. Signature styled infographics provide high level insights of the techology solutions that CommerceBlock develops.
+We designed a landing page with a clear goal to recap CommerceBlocks operations with clear structure and modularity in mind to have a foundation to grow the site off in the future. Light weight animated key visual and constraints on development ensured high performance. Signature styled infographics provide high level insights of the techology solutions that CommerceBlock develops.
 
 ![cb3.png](/uploads/cb3.png)
 
