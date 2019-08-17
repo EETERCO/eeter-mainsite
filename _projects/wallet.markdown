@@ -1,5 +1,5 @@
 ---
-title: Decrediton Wallet
+title: Decred Wallet
 date: 2018-01-13 12:12:00 +02:00
 position: 4
 Subheading: UI/UX, Interaction Design, Visual Design, UI Motion Design
