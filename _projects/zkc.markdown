@@ -1,7 +1,7 @@
 ---
 title: ZKC
 date: 2018-01-13 12:11:00 +02:00
-position: 0
+position: 3
 Subheading: Identity, Visual Design, Web Design
 Intro: ZKC is an abbreviation of Zero Knowledge Communications – a framework to enable
   private and secure communications between any number of parties. We've created a
