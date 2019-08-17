@@ -25,7 +25,7 @@ Menu Hover Image: "/uploads/decrediton-cover.png"
 
 ## Simplifing the complexities
 
-The Wallets GUI design focuses on simplifying interacting with the Decred blockchain. The most challenging tasks have been translating complex features, usually done in a command-line environment, into a clear and straightforward experience for novice as well advanced users. As users manage their funds in the wallet, the baseline principles aim to instill the feeling of confidence and security. Create an environment of control and percision, where the users don't have to worry about making any mistakes what might lose their funds.
+The Wallets GUI design focuses on simplifying interacting with the Decred blockchain. The most challenging tasks have been translating complex features, usually done in a command-line environment, into a clear and straightforward experience for novice as well advanced users. As users manage their funds in the wallet, the baseline principles aim to instill the feeling of confidence and security. Create an environment of control and precision, where the users don't have to worry about making any mistakes what might lose their funds.
 <br>
 
 ![loading_blockchain_1.gif](/uploads/loading_blockchain_1.gif)
@@ -37,14 +37,14 @@ The Wallets GUI design focuses on simplifying interacting with the Decred blockc
 
 ## Sense of stability
 
-Structural arrangement of Decrediton creates relationships that unify the common features. The layouts are composed in a consistent and calm manner, creating a memorable way of navigating. Main interactions are highlighted by color contrasts helping them to easily stand out. Numbers have a unique type treatment to help reduce the visual weight of displaying 8 decimals. Motion design provides an extra level of feedback as well holds the top level of the hierarchy.
+The structural arrangement of the Wallet creates relationships that unify the common features. The layouts are composed in a consistent and calm manner, creating a memorable way of navigating. Main interactions are highlighted by color contrasts helping them to easily stand out. Numbers have a unique type treatment to help reduce the visual weight of displaying 8 decimals. Motion design provides an extra level of feedback as well holds the top level of the hierarchy.
 
 ![wl - c-190bb6-2.png](/uploads/wl%20-%20c-190bb6-2.png)
 <br>
 
 ## Passing the learning curve
 
-One of the biggest issues for Decred is it's learning curve. Since many of the considered for “advanced users” we’ve been constantly refining the onboarding process. This begins with a rich introduction in the launcher and continues through-out the app as well-positioned tips providing insights. 
+One of the biggest issues for Decred is it’s learning curve. A refined onboarding process begins with a rich introduction in the launcher and continues through-out the app as well positioned tips providing insights. Current work focuses on various optimizations, mobile version and materializing the new features.
 
 The current work focuses on various optimizations, mobile version and materializing the new features. 
 
