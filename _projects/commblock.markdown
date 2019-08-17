@@ -8,7 +8,7 @@ Intro: 'CommerceBlock is a blockchain development firm. We took on a soft re-bra
 Extra Information: "EETER.co - 2019\n\nDesign – Sander Meentalo, Tanel August Lind,
   30000fps\nDevelopment: goodhands.co – Mykolas Raižys "
 Menu Hover Image: "/uploads/commblock-cover.png"
-Is Coming Soon: true
+Is Coming Soon: false
 ---
 
 ![cb1.png](/uploads/cb1.png)
