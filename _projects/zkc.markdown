@@ -22,7 +22,7 @@ Is Coming Soon: false
 
 ## Asymmetric and compartmentalized
 
-The minimal symbol is derived from letter “z”, incorporating a number of inherent values to the project such as: asymmetry, compartmentalization and stability of structure. The visual metaphor of heavily abstracted and chat bubble provides relation to the communications sector. Although chat bubble is a generic metaphor, we figured it’s subtle take works well on an international level rather than going with some deeper, tech specific metaphors or not addressing the sector at all.
+The minimal symbol is derived from letter “z”, incorporating a number of inherent values to the project such as: asymmetry, compartmentalization and stability of the structure. The visual metaphor of heavily abstracted and chat bubble provides a relation to the communications sector. Although the chat bubble is a generic metaphor, we figured it’s subtle take works well on an international level rather than going with some deeper, tech-specific metaphors or not addressing the sector at all.
 
 The logo consists of three elements used in two variations. The symbol, a full word mark and the shorthand abbreviation. This allows for a responsive use depending on the context or environment.
 
