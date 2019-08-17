@@ -7,7 +7,7 @@ Intro: 'CommerceBlock is a blockchain development firm. We took on a soft re-bra
   in order to polish up the firm''s state of visual branding while saving an already
   established perception. '
 Extra Information: "EETER.co - 2019\n\nDesign – Sander Meentalo, Tanel August Lind,
-  30000fps\nDevelopment: goodhands.co – Mykolas Raižys "
+  30000fps\n\nDevelopment: goodhands.co – Mykolas Raižys "
 Menu Hover Image: "/uploads/commblock-cover.png"
 Is Coming Soon: false
 ---
@@ -16,7 +16,7 @@ Is Coming Soon: false
 <br>
 
 ## A soft re-brand
-The challenge was to overcome several serious issues around originality and quality with the prior symbol without losing the considerable equity built beforehand. To retain the similarity of perception, we constrained the work around the base form and inner workings of the intertwined hexagons duo. We also injected additional value by emphasizing the C and the block formation. 
+The challenge was to overcome several serious issues around originality and quality with the prior symbol without losing the considerable equity. To retain the similarity of perception, we constrained the work around the base form and inner workings of the intertwined hexagons duo. We also injected additional value by emphasizing the C and the block formation. 
 
 As part of CommerceBlocks visual identity, we worked out a set of common assets and methods to build consistency across all visual branding outputs. The companies products received a series of icon-based logos as accompanied by signature key visuals.
 
