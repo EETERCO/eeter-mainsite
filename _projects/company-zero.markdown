@@ -18,7 +18,7 @@ Is Coming Soon: false
 
 ## Return to zero
 
-Software development commonly leads to increasingly large set of assumptions on part of both developers and users. Assumptions add up to hidden risks. Company Zero belives these risks can be only exposed when taking time to carefully evaluate the assumptions. To re-evaluate these assumptions means to "return to zero", what the bold and geometric symbol suggests. The circle represents the essence and the source. Horizontal line draws the path of the movement – returning to the source.
+Software development commonly leads to an increasingly large set of assumptions on part of both developers and users. Assumptions add up to hidden risks. Company Zero believes these risks can be only exposed when taking time to carefully evaluate the assumptions. To re-evaluate these assumptions means to "return to zero", what the bold and geometric symbol suggests. The circle represents the essence and the source. The horizontal line draws the path of the movement – returning to the source.
 
 ![c0 - web a.png](/uploads/c0%20-%20web%20a.png)
 
