@@ -3,9 +3,9 @@ title: Mind The Meaning
 date: 2018-01-13 12:12:00 +02:00
 position: 7
 Subheading: Identity, Graphic Design, Art Direction, Web Design, Illustration
-Intro: Mind the Meaning provides expert services in linguistic analysis of legal texts
-  and semiotic analysis of trademarks. We created the complete identity and alongside
-  with company website and assets for introducing the services.
+Intro: Mind the Meaning provides expert services in the linguistic analysis of legal
+  texts and semiotic analysis of trademarks. We created the complete identity and
+  alongside with company website and assets for introducing the services.
 Extra Information: |-
   EETER.co 2014 – 2015
 
@@ -25,14 +25,14 @@ Menu Hover Image: "/uploads/mtmCover.png"
 
 ## Worlds oldest trademark
 
-The idea for the symbol references the world’s oldest trademark – White Rabbit, a needle shop China, during the Song Dynasty (960 - 1279). It was used with a purpose for advertising and a warning against copying. In the spirit of the archaic trademark, this modern and likeable symbol was born.
+The idea for the symbol references the world’s oldest trademark – White Rabbit, a needle shop China, during the Song Dynasty (960 - 1279). It was used with a purpose for advertising and a warning against copying. In the spirit of the archaic trademark, this modern and likable symbol was born.
 
 ![mtm-dyn.png](/uploads/mtm-dyn.png)
 <br>
 
 ## Mind the gap
 
-Company site explains what Mind the Meaning is all about. Services and experts are presented along-side with series of illustrations and photos. These help to address industry-specific concerns and are a notch more down-to-earth and unstuffier than what one might expect from traditional laywers.
+Company site explains what Mind the Meaning is all about. Services and experts are presented along-side with series of illustrations and photos. These help to address industry-specific concerns and are a notch more down-to-earth and unstuffy than what one might expect from traditional lawyers.
 
 ![mtm-5.png](/uploads/mtm-5.png)
 
