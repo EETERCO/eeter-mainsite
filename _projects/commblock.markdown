@@ -1,6 +1,7 @@
 ---
 title: CommerceBlock
 date: 2019-04-09 15:41:00 +03:00
+position: 0
 Subheading: Identity, Visual Design, Web Design
 Intro: 'CommerceBlock is a blockchain development firm. We took on a soft re-branding
   in order to polish up the firm''s state of visual branding while saving an already
