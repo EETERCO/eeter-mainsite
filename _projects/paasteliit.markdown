@@ -42,7 +42,7 @@ The existing RA identity needed to be evolved and refined in order to make it on
 <br>
 
 ## Enduring the weather
-Meeting different rescuers and ghosting along on a fire call gave us clear insight on the direction of photography. We teamed up with well-known photographers and adventurers Jarek Jõepera and Timo Palo, who enjoyed the challange of harsh conditions got the right kind of shots done. 
+Meeting different rescuers and ghosting along on a fire call gave us a clear insight into the direction of photography. We teamed up with well-known photographers and adventurers Jarek Jõepera and Timo Palo, who enjoyed the challenge of harsh conditions got the right kind of shots done. 
 
 ![pl - 5-9fa0a4.png](/uploads/pl%20-%205-9fa0a4.png)
 <br>
