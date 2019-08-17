@@ -3,11 +3,10 @@ title: Coinscrum
 date: 2018-09-28 19:30:00 +03:00
 position: 1
 Subheading: Identity, Visual Design, Web Design
-Intro: "Coinscrum organises free and open crypto and tech events. Coinscrum prides
-  itself \x03in being open to \x03all - whether the hardest-\x03core computer science
-  geek or someone who's only just had their interest piqued by this fascinating subject
-  and wants to find out more. We distilled down it's essence to a simple and modern
-  wordmark. "
+Intro: 'Coinscrum organizes free and open crypto and tech events. Coinscrum prides
+  itself in being open to all - whether the hard-core computer science geek or someone
+  who''s only just had their interest piqued by this fascinating subject and wants
+  to find out more. We distilled down it''s essence to a simple and modern wordmark. '
 Extra Information: "EETER.co 2018 \n\nDesign and Direction: Sander Meentalo\n\nDesign:
   Tanel August Lind\n\nIllustration: Kärt Koosapoeg\n\nDevelopment: goodhands.co –
   Mykolas Raižys "
@@ -29,9 +28,9 @@ The re-imagined identity for Coinscrum is formed around a typographic approach. 
 ## Highlighting each event
 The bold wordmark together with the visual identity forms an approachable, trustworthy and recognizable output for the cryptocurrency and blockchain events community. 
 
-A generative approach allows to increase awareness and communicate nuances of single events, while instilling a clear brand association back to the source.
+A generative approach allows to increase awareness and communicate nuances of single events while instilling a clear brand association back to the source.
 
-Each combination for hero visuals is essentially an excercise of creativity, composition and architectonics.
+Each combination for hero visuals is essentially an exercise of creativity, composition and architectonics.
 
 ![cs3b.png](/uploads/cs3b.png)
 
