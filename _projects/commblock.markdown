@@ -5,10 +5,8 @@ Subheading: Identity, Visual Design, Web Design
 Intro: 'CommerceBlock is a blockchain development firm. We took on a soft re-branding
   in order to polish up the firm''s state of visual branding while saving an already
   established perception. '
-Extra Information: |-
-  EETER.co - 2019
-
-  Design - Sander Meentalo, Tanel August Lind, 30000fps
+Extra Information: "EETER.co - 2019\n\nDesign – Sander Meentalo, Tanel August Lind,
+  30000fps\nDevelopment: goodhands.co – Mykolas Raižys "
 Menu Hover Image: "/uploads/commblock-cover.png"
 Is Coming Soon: true
 ---
