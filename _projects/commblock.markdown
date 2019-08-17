@@ -16,16 +16,14 @@ Is Coming Soon: true
 ![cb1.png](/uploads/cb1.png)
 <br>
 
-## Seeing through the hexagon blocks
+## A soft re-brand
+The challenge was to overcome several serious issues with the prior symbol without losing the considerable equity built beforehand. To retain the similarity of perception, we constrained the work around the base form and inner workings of the intertwined hexagons duo. We also injected additional value by emphasizing the C and the block formation. 
 
-The old symbol was plagued by number of issues, from similarities to other symbols as well graphical construction and performance. Due to being in action across critical domains, the task at hand required retaining a similar perception of the symbol. By constraining our work around the base form and inner workings of the hexagons, the updated symbol was based on intertwined hexagon duo what in combination formed an ambigram. We also injected additional value by emphasizing the C and the block formation. 
-
-We worked out a set of common methods and assets for consistent visual branding across all outputs. The products received consistent icon based logos as well key visuals. 
+As part of CommerceBlocks visual identity, we worked out a set of common assets and methods to build consistency across all visual branding outputs. The companies products received a series of icon-based logos as accompanied by signature key visuals.
 
 ![cb2.png](/uploads/cb2.png)
 
-## jisdsd
-We designed a landing page with a clear goal to recap CommerceBlocks operations with clear structure and modularity in mind to have a foundation to grow the site off in the future. Light weight animated key visual and constraints on development ensured high performance. Signature styled infographics provide high level insights of the techology solutions that CommerceBlock develops.
+We designed a landing page with a clear goal to recap CommerceBlocks operations clear structure. The design approach was modular in mind to build the landing page as an optimal foundation for the sites growth in the future. Lightweight animated key visuals and front-end constraints ensured high performance. Signature styled infographics provide high-level insights into the technology solutions that CommerceBlock develops.
 
 ![cb3.png](/uploads/cb3.png)
 
