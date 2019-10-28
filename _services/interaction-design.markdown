@@ -1,7 +1,7 @@
 ---
 title: Interaction and Experience
 date: 2018-01-13 12:11:00 +02:00
-position: 5
+position: 1
 Heading: Interacting with tech from a human viewpoint
 Subheading: We take on digital products from inception and concept to continuous adaption
   and implementation as they evolve.
