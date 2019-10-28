@@ -7,7 +7,7 @@ Subheading: Identity is rooted in a sum of defined qualities – of meaning, his
   means of representation.
 Image: "/uploads/idService@2x.png"
 content1: |-
-  <p>Identity is rooted in a sum of defined qualities – of meaning, history, function, and vision. It peaks with a novel design formed of considered decisions to be cohesive and appropriate means of representation.</p>
+  <p>Identity is rooted in a sum of defined qualities – of meaning, history, function, and vision. It peaks with a novel design, formed of considered decisions, with a purpose of being a cohesive and appropriate means of representation.</p>
 
   <p>By design or without it, identity forms a type of framework that has a substantial effect on most communication, product and brand development efforts. Asides its more tangible parts, an identity also serves a role in forming relationships with its owner and the audiences it interacts with.   </p>
 content2: |-
