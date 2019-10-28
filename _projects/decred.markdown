@@ -1,7 +1,7 @@
 ---
 title: Decred
 date: 2018-01-13 12:09:00 +02:00
-position: 4
+position: 5
 Subheading: Identity, Digital Design, Design System, Design Operations
 Intro: Decred is an open-source cryptocurrency project with a focus on solving blockchain
   governance. EETER has authored Decred's identity as well established the projects
