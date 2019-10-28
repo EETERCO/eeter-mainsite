@@ -2,27 +2,25 @@
 
 <div class="container services">
 	<div class="row">
-		<div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 col-xs-10 col-xs-offset-1">
+		<div class="col-lg-10 col-lg-offset-2 col-md-11 col-md-offset-1 col-sm-13 col-sm-offset-1 col-xs-11 col-xs-offset-1">
 			<h1>{{ page.Heading }}</h1>
 		</div>
 		<div class="clearfix"></div>
 		<div class="col-lg-4 col-lg-offset-2 col-md-5 col-md-offset-2 col-sm-6 col-sm-offset-1 col-xs-10 col-xs-offset-1">
-			<p>{{ page.Subheading }}</p>
+			<!-- <p>{{ page.Subheading }}</p> -->
 		</div>
 	</div>
 </div>
 <div class="container services--more">
-	<div class="row">
+	<div class="row-eq-height row">
 		{% assign sorted_services = site.services | sort:"position" %}
 		{% for service in sorted_services %}
 		{% assign loopindex = forloop.index | divided_by: 2 %}
-			<div class="{% cycle 'col-md-3 col-md-offset-1 col-sm-4 col-sm-offset-2 margin-bottom--more col-xs-10 col-xs-offset-1', 'col-md-3 col-sm-4 col-sm-offset-1 margin-bottom--more col-md-offset-0 col-xs-10 col-xs-offset-1', 'col-md-3 col-sm-4 col-sm-offset-2 margin-bottom--more col-md-offset-0 col-xs-10 col-xs-offset-1', 'col-md-3 col-sm-4 col-sm-offset-1 margin-bottom--more col-md-offset-0 col-xs-10 col-xs-offset-1' %}">
+			<div class="col-md-3 col-md-offset-1 col-sm-4 col-sm-offset-1 margin-bottom--more col-xs-12 col-xs-offset-1">
 				<h3>{{ service.title }}</h3>
 				<p>{{ service.Subheading }}</p>
 				<a href="{{ site.baseurl }}{{ service.url }}">Read more →</a>
 			</div>
-			{% cycle '', '<div class="clearfix visible-sm"></div>' %}
-			{% cycle '', '', '', '<div class="clearfix visible-md visible-lg"></div>' %}
 		{% endfor %}
 	</div>
 </div>
