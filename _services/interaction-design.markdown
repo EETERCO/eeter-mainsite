@@ -7,12 +7,12 @@ Subheading: We take on digital products from inception and concept to continuous
 Image: "/uploads/ixdService@2x.png"
 Heading: Focus on simplicity equals focus on usability
 content1: "<p>We take on digital products from inception to continuous and new iterations
-  as they evolve. \L\LTo ensure that all parties involved are on the same page, we
-  create an actionable plan with priorities defined by value and effort, as well as
-  the limitations considering risks and difficulties. This provides a clear sight
-  of how much time and attention do different aspects require.</p>\n\n<p>We work in
-  quick iteration sprints, where best outcomes and insights get distilled into more
-  refined designs.</p>"
+  as they evolve.</p> \n\n<p>\L\LTo ensure that all parties involved are on the same
+  page, we create an actionable plan with priorities defined by value and effort,
+  as well as the limitations considering risks and difficulties. This provides a clear
+  sight of how much time and attention do different aspects require.</p>\n\n<p>We
+  work in quick iteration sprints, where best outcomes and insights get distilled
+  into more refined designs.</p>"
 content2: |-
   <p>Business and Development:   <br>
   — research   <br>
