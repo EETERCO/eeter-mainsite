@@ -2,8 +2,8 @@
 title: Design Operations
 date: 2018-01-13 12:10:00 +02:00
 position: 2
-Subheading: Design operations address both internal and external facets of the design
-  discipline with a unified goal towards increasing efficiency between all contributors.
+Subheading: 'Design operations address both internal and external facets of the design
+  discipline with a unified goal towards increasing efficiency between all contributors. '
 Image: "/uploads/opsService@2x.png"
 Heading: The key for streamlining work and realising effiences
 content1: "<p>Design operations address both internal and external facets of the design
