@@ -22,6 +22,10 @@ content2: |-
   - naming<br>
 
   </p>
+Heading: "Visual being that stands for \Lwhat you stand for."
+Subheading: Identity is rooted in a sum of defined qualities – of meaning, history,
+  function, and vision. It peaks with a novel design to work as cohesive and appropriate
+  means of representation.
 ---
 
 We define your values visually. The work roots from the DNA of your organization, product or service and peaks with a novel design composed of carefully considered decisions. 
