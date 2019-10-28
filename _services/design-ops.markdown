@@ -15,10 +15,10 @@ content2: |-
   <p>On the business level, we ensure the design discipline remains aligned with a larger business strategy.    </p>
 
   <p>Design Operations:   <br>
-  - team management<br> 
-  - operational methodologies   <br>
-  - workflow optimization   <br>
-  - design systems   <br>
+  — team management<br> 
+  — operational methodologies   <br>
+  — workflow optimization   <br>
+  — design systems   <br>
   </p>
 ---
 
