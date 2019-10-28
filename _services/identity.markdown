@@ -37,5 +37,4 @@ Our process relies on the quality of research, well defined objectives and princ
 - design and artistic direction<br>
  - design strategy<br>
 - naming<br>
-
 </p>
