@@ -10,9 +10,9 @@ content1: "<p>We take on digital products from inception to continuous and new i
   as they evolve. \L\LTo ensure that all parties involved are on the same page, we
   create an actionable plan with priorities defined by value and effort, as well as
   the limitations considering risks and difficulties. This provides a clear sight
-  of how much time and attention do different aspects require. \n\nWe work in quick
-  iteration sprints, where best outcomes and insights get distilled into more refined
-  designs.</p>"
+  of how much time and attention do different aspects require. \n\L<br>\nWe work in
+  quick iteration sprints, where best outcomes and insights get distilled into more
+  refined designs.</p>"
 content2: |-
   <p>
   - Business and Development:   <br>
@@ -21,7 +21,7 @@ content2: |-
   — release planning   <br>
   — implementation audit   <br>
   — QA<br>
-
+   <br>
   - Product Design:   <br>
   — concept design   <br>
   — information architecture   <br>
@@ -34,7 +34,7 @@ content2: |-
 ---
 
 We take on digital products from inception to continuous and new iterations as they evolve.   To ensure that all parties involved are on the same page, we create an actionable plan with priorities defined by value and effort, as well as the limitations considering risks and difficulties. This provides a clear sight of how much time and attention do different aspects require. 
-
+ <br>
 We work in quick iteration sprints, where best outcomes and insights get distilled into more refined designs.
 
 <p>
@@ -44,7 +44,7 @@ We work in quick iteration sprints, where best outcomes and insights get distill
 — release planning <br>
 — implementation audit <br>
 — QA<br>
-
+ <br>
 - Product Design: <br>
 — concept design <br>
 — information architecture <br>
