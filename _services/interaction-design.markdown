@@ -14,15 +14,14 @@ content1: "<p>We take on digital products from inception to continuous and new i
   quick iteration sprints, where best outcomes and insights get distilled into more
   refined designs.</p>"
 content2: |-
-  <p>
-  Business and Development:   <br>
+  <p>Business and Development:   <br>
   — research   <br>
   — requirements definition   <br>
   — release planning   <br>
   — implementation audit   <br>
-  — QA<br>
-   <br>
-  Product Design:   <br>
+  — QA<br></p>
+
+  <p>Product Design:   <br>
   — concept design   <br>
   — information architecture   <br>
   — prototyping   <br>
