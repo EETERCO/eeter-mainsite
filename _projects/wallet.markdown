@@ -15,7 +15,7 @@ Extra Information: |-
 
   Motion Design: Kyle Chivers
 
-  Company Zero, Decred Developers
+  Development: Company Zero, Decred Developers
 
   Github: https://github.com/decred/decrediton
 Featured Image: "/uploads/digitalprodFeature.png"
