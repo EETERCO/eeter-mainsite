@@ -14,13 +14,13 @@ content2: |-
   <p>We keep the long term in sight. Having a clear route of actions and goals will increase the probability of successful results and extends the solutions to the fullest potential.</p>
 
   <p>
-  - logos, symbols, and marks   <br>
-  - identity systems   <br>
-  - graphic design   <br>
-  - creative direction   <br>
-  - naming and positioning<br>
-   - strategy   <br>
-  - brand guardianship<br>
+  — logos, symbols, and marks   <br>
+  — identity systems   <br>
+  — graphic design   <br>
+  — creative direction   <br>
+  — naming and positioning<br>
+  — strategy   <br>
+  — brand guardianship<br>
   </p>
 Heading: "Visual being that stands for \Lwhat you stand for."
 ---
