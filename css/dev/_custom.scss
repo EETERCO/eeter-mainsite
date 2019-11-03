@@ -1508,6 +1508,10 @@ $easing : cubic-bezier(0.93, 0.04, 0.31, 0.88);
         display: flex;
         flex-wrap: wrap;
     }
+
+    @media (min-width: $screen-sm-min) and (max-width: 991px) {
+        justify-content: center;
+    }
 }
 
 .prev-next {
