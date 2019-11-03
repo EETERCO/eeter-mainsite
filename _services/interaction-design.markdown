@@ -2,15 +2,15 @@
 title: Interaction and Experience
 date: 2018-01-13 12:11:00 +02:00
 position: 1
-Subheading: We take on digital products from inception and concept to continuous adaption
-  and implementation as they evolve.
+Subheading: We take on digital products from inception to continuous iterations as
+  they evolve.
 Image: "/uploads/ixdService@2x.png"
 Heading: Focus on simplicity equals focus on usability
-content1: "<p>We take on digital products from inception to continuous and new iterations
+content1: "<p>We take on digital products from inception to continuous iterations
   as they evolve.</p> \n\n<p>\L\LTo ensure that all parties involved are on the same
-  page, we create an actionable plan with priorities defined by value and effort,
-  as well as the limitations considering risks and difficulties. This provides a clear
-  sight of how much time and attention do different aspects require.</p>\n\n<p>We
+  page, we create an actionable plan with priorities defined by both value and effort,
+  as well as by limitations considering the risks and difficulties. This provides
+  a clear sight of how much time and attention do different aspects require.</p>\n\n<p>We
   work in quick iteration sprints, where best outcomes and insights get distilled
   into more refined designs.</p>"
 content2: |-
@@ -20,6 +20,7 @@ content2: |-
   — release planning   <br>
   — implementation audit   <br>
   — QA<br></p>
+  — presentations<br></p>
 
   <p>Product Design:   <br>
   — concept design   <br>
