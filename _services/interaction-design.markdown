@@ -18,9 +18,9 @@ content2: |-
   — research   <br>
   — requirements definition   <br>
   — release planning   <br>
+  — presentations<br>
   — implementation audit   <br>
   — QA<br></p>
-  — presentations<br></p>
 
   <p>Product Design:   <br>
   — concept design   <br>
