@@ -1,8 +1,9 @@
 ---
 title: Services
 date: 2018-01-13 12:09:00 +02:00
-Heading: "Foundation for a strong digital being \Lroots from identity, interaction
-  design \Land visual design functioning together \Las a coherent system."
+Heading: Identity roots in a sum of defined qualities – meaning, function, history,
+  and vision. It peaks through novel design, forming cohesive and appropriate means
+  for representation.
 Subheading: 
 layout: services
 ---
