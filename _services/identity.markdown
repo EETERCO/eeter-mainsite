@@ -11,7 +11,7 @@ content1: |-
 
   <p>With intention or without it, identity forms a type of framework which has a substantial effect on most communication, product and branding efforts. Aside its more tangible parts, the identity also serves a role in forming relationships with its owner and the audiences it interacts with.   </p>
 content2: |-
-  <p>We keep the long term in sight. Having a clear route of actions and goals will increase the probability of successful results and extends the solutions to the fullest potential.</p>
+  <p>We keep the long term in sight. A clear route of actions and goals will increase the probability of successful results in visual branding.</p>
 
   <p>
   – logos, symbols, and marks   <br>
