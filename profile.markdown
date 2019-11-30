@@ -11,11 +11,11 @@ First Column: |-
   The partners are practicing designers who share over a decade of experience in working with startups and open-source projects to Global 500 companies.
   </p>
 Second Column: "<p>\nThe founding partners are the key contacts and part of the core
-  team for every project. In addition we employ a compact team of local and remote
-  experts from different fields such as motion design, development, research, photography
+  team for every project. We work in close partnership with many talented local and
+  remote experts from fields such as motion design, development, research, photography
   and production work. \n</p>"
 Third Column: "<p>\nWe are well-versed in and focused on working with the following
-  sectors: \n\L</p>\n<p>\n• finance and legal<br>\n• blockchain and security<br>\n•
+  sectors: \n\L</p>\n<p>\n• finance and productivity<br>\n• blockchain and security<br>\n•
   industrial and engineering<br>\n\L</p>"
 Fourth Column: |-
   <p><strong>Tanel August Lind   </strong><br>
