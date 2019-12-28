@@ -1,7 +1,7 @@
 ---
 title: Company Zero
 date: 2018-01-13 12:12:00 +02:00
-position: 2
+position: 4
 Subheading: Identity, Visual Design, Web Design
 Intro: 'Company Zero is a Chicago based software development firm, who engineers cryptocurrency
   and communications software. EETER created an iconic symbol based on c0''s fundamental
