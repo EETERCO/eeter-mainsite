@@ -1,7 +1,7 @@
 ---
 title: Mind The Meaning
 date: 2018-01-13 12:12:00 +02:00
-position: 8
+position: 9
 Subheading: Identity, Graphic Design, Art Direction, Web Design, Illustration
 Intro: Mind the Meaning provides expert services in the linguistic analysis of legal
   texts and semiotic analysis of trademarks. We created the complete identity and

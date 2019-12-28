@@ -1,7 +1,7 @@
 ---
 title: Päästeliit
 date: 2018-01-13 12:12:00 +02:00
-position: 7
+position: 8
 Subheading: Website, Visual Design, Interaction Design, Research, Illustration, Artistic
   Direction
 Intro: 'The Rescue Association combines and represents voluntary rescuers organizations

@@ -1,7 +1,7 @@
 ---
 title: Coinscrum
 date: 2018-09-28 19:30:00 +03:00
-position: 1
+position: 3
 Subheading: Identity, Visual Design, Web Design
 Intro: 'Coinscrum organizes free and open crypto and tech events. Coinscrum prides
   itself in being open to all - whether the hard-core computer science geek or someone
