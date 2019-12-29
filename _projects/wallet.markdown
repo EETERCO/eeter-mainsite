@@ -1,7 +1,7 @@
 ---
 title: Decred Wallet
 date: 2018-01-13 12:12:00 +02:00
-position: 7
+position: 6
 Subheading: UI/UX, Interaction Design, Visual Design, UI Motion Design
 Intro: Decrediton wallet is the core software for using the $DCR currency and participating
   in the blockchains governance. We authored the design from initiation and continue
