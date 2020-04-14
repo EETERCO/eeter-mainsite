@@ -25,7 +25,7 @@ Fourth Column: |-
 
   <p>Since 2008 Tanel spent a fair share of his time with several major design firms in Estonia, Finland, and Australia. Most of his past work involves around financial, industrial and tech sectors.    </p>
 
-  <p>Tanel's focus lies on the crossover of digital design and identity. He provides direction on the operational aspects of product development, with an aim to improve design disciplines functions and gap the bridge between development. </p>
+  <p>Tanel's focus lies on the crossover of digital design and identity. He provides direction on the operational matters of product development, with an aim to improve design disciplines functions and gap the bridge between development. </p>
 Fifth Column: |-
   <p><strong>Sander Meentalo   </strong><br>
   Designer, Partner    </p>
