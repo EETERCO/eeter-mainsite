@@ -25,10 +25,10 @@ Second Column: "<p>\nEETER is defined by its core values and maintains them rega
   experience.\n</p>"
 Third Column: |-
   <p>
-  During our engagement, we shun beating around the bush, as we’d rather get straight to the point. We root out heedless subjectivity and grow the practice of reason and fact-based decision making on all matters.
+  During our engagement, we shun beating around the bush, as we want to get straight to the point. We root out heedless subjectivity and grow the practice of reason and fact-based decision making on all matters.
    </p>
   <p>
-  We are open to different perspectives, though will likely test and debunk each piece of advice rather than accepting it blindly.
+  We are open to different perspectives, though will likely test and debunk prescriptive advice rather than accepting it blindly.
    </p>
   <p>
   We know what it takes for design to drive the success of a project, hence we keep our approach to design lean and avoid engaging in inefficient practices or creating excess.
