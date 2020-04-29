@@ -17,12 +17,11 @@ First Column: |-
    </p>
 Second Column: "<p>\nEETER is defined by its core values and maintains them regardless
   of the matter at hand. Our mindset is formed on objectivity forthrightness, honesty,
-  adaptability, balancedness, and confidentiality. \L\LWe always want to ensure working
-  with us will make a good fit. \n\L</p>\n<p>\nThis is done through an assessment
-  of two aspects, firstly whether and how efficiently can we solve your problems.
-  Secondly, by making sure our and your character types can work together without
-  compromising one anothers values. This will ensure an enjoyable and quality work
-  experience.\n</p>"
+  adaptability, balancedness, and confidentiality. \L\n\L</p>\n<p>\nWe want to ensure
+  that working with us will make a good fit. This is done through an assessment of
+  two aspects, firstly whether and how efficiently can we solve your problems. Secondly,
+  by making sure our and your character types can work together without compromising
+  one anothers values. This will ensure an enjoyable and quality work experience.\n</p>"
 Third Column: |-
   <p>
   During our engagement, we shun beating around the bush, as we want to get straight to the point. We root out heedless subjectivity and grow the practice of reason and fact-based decision making on all matters.
