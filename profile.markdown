@@ -3,18 +3,13 @@ title: Profile
 date: 2018-01-13 12:09:00 +02:00
 Heading: Our aim is set towards creating honest and exemplary works that stands the
   test of time and engages the audiences with valuable experiences.
-First Column: |-
-  <p>
-  EETER is a design firm driven by innovations and grounded by timeless design principles.
-  </p>
-  <p>
-  The founding partners each share over a decade of unparalleled experience and serve as the key contacts. We also work in close partnership with select talented local and remote experts from fields such as motion design, development, research, photography and production work.
-   </p>
-  <p>
-  • finance and productivity<br>
-  • blockchain and security<br>
-  • industrial and engineering<br>
-   </p>
+First Column: "<p>\nEETER is a design firm driven by innovations and grounded by timeless
+  design principles.\n</p>\n<p>\nThe founding partners each share over a decade of
+  unparalleled experience and serve as the key contacts. We also work in close partnership
+  with select talented local and remote experts from fields such as motion design,
+  development, research, photography and production work.\n\L</p>\n<p>\nWe are well-versed
+  in and focused on working with the following sectors: \n• finance and blockchain<br>\n•
+  technology and security<br>\n• industrial and engineering<br>\n\L</p>"
 Second Column: "<p>\nEETER is defined by its core values and maintains them regardless
   of the matter at hand. Our mindset is formed on objectivity forthrightness, honesty,
   adaptability, balancedness, and confidentiality. \L\n\L</p>\n<p>\nWe want to ensure
