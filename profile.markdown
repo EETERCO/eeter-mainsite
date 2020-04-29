@@ -8,8 +8,8 @@ First Column: "<p>\nEETER is a design firm driven by innovations and grounded by
   unparalleled experience and serve as the key contacts. We also work in close partnership
   with select talented local and remote experts from fields such as motion design,
   development, research, photography and production work.\n\L</p>\n<p>\nWe are well-versed
-  in and focused on working with the following sectors: \n• finance and blockchain<br>\n•
-  technology and security<br>\n• industrial and engineering<br>\n\L</p>"
+  in and focused on working with the following sectors: \n\L</p>\n<p>\n• finance and
+  blockchain<br>\n• technology and security<br>\n• industrial and engineering<br>\n\L</p>"
 Second Column: "<p>\nEETER is defined by its core values and maintains them regardless
   of the matter at hand. Our mindset is formed on objectivity forthrightness, honesty,
   adaptability, balancedness, and confidentiality. \L\n\L</p>\n<p>\nWe want to ensure
