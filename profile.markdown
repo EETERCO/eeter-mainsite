@@ -22,10 +22,10 @@ Third Column: |-
   During our engagement, we shun beating around the bush, as we prefer getting straight to the point. We root out heedless subjectivity and grow the practice of reasoned and fact-based decision making on all matters.
    </p>
   <p>
-  We are open to different perspectives, though will likely test and debunk prescriptive advice rather than accepting it blindly.
+  We are open to different perspectives, though will put assumptions and prescriptive advice through a test of fire rather than accepting it blindly.
    </p>
   <p>
-  We know what it takes for design to drive the success of a project, hence we keep our approach to design lean and avoid engaging in inefficient practices or creating excess.
+  We know what it takes for design to drive the success of a project, thus we keep our approach to design lean, with a deep focus on research and avoid engaging in inefficient practices or creating excess.
    </p>
 Fourth Column: |-
   <p><strong>Tanel August Lind   </strong><br>
@@ -35,7 +35,7 @@ Fourth Column: |-
 
   <p>Since 2008 Tanel spent a fair share of his time with several major design firms in Estonia, Finland, and Australia. Most of his past work involves around financial, industrial and tech sectors.    </p>
 
-  <p>Tanel's focus lies on the crossover of digital design and identity. He provides direction on the operational matters of product development, with an aim to improve design disciplines functions and gap the bridge between development. </p>
+  <p>Tanel's focus is on the crossover of digital design and identity. He provides direction on the operational matters of product development, with an aim to improve design disciplines functions and gap the bridge between development. </p>
 Fifth Column: |-
   <p><strong>Sander Meentalo   </strong><br>
   Designer, Partner    </p>
