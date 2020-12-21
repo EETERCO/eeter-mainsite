@@ -10,7 +10,7 @@ Intro: 'The Rescue Association combines and represents voluntary rescuers organi
 Extra Information: |-
   EETER.co 2017
 
-  Design and Direction: Sander Meentalo
+  Design and Direction: San Der
 
   Design: Tanel August Lind
 
