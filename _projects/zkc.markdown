@@ -9,7 +9,7 @@ Intro: ZKC is an abbreviation of Zero Knowledge Communications – a framework t
 Extra Information: |-
   EETER.co - 2017
 
-  Design - Sander Meentalo, Tanel August Lind
+  Design - San Der, Tanel August Lind
 Featured Image: "/uploads/zkcFeature-compressor.png"
 Menu Hover Image: "/uploads/zkc-cover-3.png"
 Is Coming Soon: false
