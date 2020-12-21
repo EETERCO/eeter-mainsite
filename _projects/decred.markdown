@@ -13,13 +13,13 @@ Extra Information: |-
 
   Design Lead: Tanel August Lind
 
-  Design and Concept: Sander Meentalo
+  Design and Concept: San Der
 
   Illustration: Kärt Koosapoeg
 
   Motion: BOP.ee, Sander Joon
 
-  Development: Sander Meentalo; goodhands.co – Mykolas Raižys; Decred Developers
+  Development: San Der; goodhands.co – Mykolas Raižys; Decred Developers
 
   Case Study 01: [Identity and Design Development for a Digital Currency](https://medium.com/decred/decred-developing-identity-and-design-system-for-a-digital-currency-17df76ab67c8)
 

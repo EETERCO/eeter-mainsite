@@ -11,7 +11,7 @@ Extra Information: |-
 
   Design and Direction: Tanel August Lind
 
-  Design and Development: Sander Meentalo
+  Design and Development: San Der
 
   Illustration: Kärt Koosapoeg
 

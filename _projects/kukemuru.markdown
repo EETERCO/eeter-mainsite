@@ -11,7 +11,7 @@ Intro: Kukemuru Ambient is the most influential ambient music event in the Balti
 Extra Information: |-
   EETER.co 2013 - Present
 
-  Design and Direction: Sander Meentalo
+  Design and Direction: San Der
 
   Design: Tanel August Lind
 
